@@ -3,14 +3,9 @@
 ======================================== */
 
 @import url('https://fonts.googleapis.com/css?family=Nunito');
-@import url(//db.onlinewebfonts.com/c/f82b8824a862f6794e633835442a6aca?family=Super+Mario+Bros.+3);
 
 * {
 	box-sizing: border-box;
-}
-
-h1 {
-    font-family: "Super Mario Bros. 3";
 }
 
 html, body {
